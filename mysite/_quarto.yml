@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Mysite"
+  title: "Hao Chen's portfolio"
   navbar:
     left:
       - href: index.qmd
@@ -11,9 +11,13 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+
+
 
 
 
