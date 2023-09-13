@@ -2,9 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "I am currently a Master of Data Science student in Vancouver with a passion for data science!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia | Vancouver, BC Master of Data Science, Computational Linguistics | 2023 - 2024"
   },
   {
     "objectID": "index.html",
