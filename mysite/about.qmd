@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 ---
+I am currently a Master of Data Science student in Vancouver with a passion for data science!
 
-About this site
+## Education
+
+University of British Columbia | Vancouver, BC
+Master of Data Science, Computational Linguistics | 2023 - 2024
